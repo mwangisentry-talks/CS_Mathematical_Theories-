@@ -15,7 +15,7 @@ Key properties of sets:
 #### Example  
 A set of natural numbers:  
 
-`A = {0, 1, 3, 6, 9}`  
+`A = {0, 1, 3, 6, 9}.`  
 
 #### Membership  
 - `0 ∈ A` → 0 is an element of A  
